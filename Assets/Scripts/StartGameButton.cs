@@ -13,7 +13,7 @@ public class StartGameButton : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("Alleyway");
+        SceneManager.LoadScene("MainGame");
     }
 
     public void CreditsMenu()
@@ -23,6 +23,6 @@ public class StartGameButton : MonoBehaviour
 
     public void BackButton()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("MainMenu2");
     }
 }        
