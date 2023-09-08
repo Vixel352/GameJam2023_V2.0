@@ -8,19 +8,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu2.unity
     guid: eb436b59c842ef14fbb2823d01fe1476
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alleyway.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/CreditsMenu.unity
     guid: 75d4a12026546744bbd22fc851394440
-  - enabled: 1
+  - enabled: 0
     path: Assets/VNCreator/_Demo/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/VNCreator/_Demo/Scenes/PlayScene.unity
     guid: 8d66d048c6b5bd045a648e731464ebcc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainGame.unity
     guid: 9b7271cbc29d02347ad7ab904e4b0fbe
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 3bb46eb9f30eb9843a3822555baf575e
+  - enabled: 1
+    path: Assets/Scenes/PlayScene1.unity
+    guid: 809f87d0fcd955e4d91c1ba2a609e7da
+  - enabled: 1
+    path: Assets/Scenes/Beastman.unity
+    guid: 1b2ae49953174ab47bdf6b11e9bb19cd
+  - enabled: 1
+    path: Assets/Scenes/Queen.unity
+    guid: d202cd2a81e729d488c1a4d9f14ec4ac
+  - enabled: 1
+    path: Assets/Scenes/Hero.unity
+    guid: 10488717e34536d4b9857c4be00398c8
   m_configObjects: {}

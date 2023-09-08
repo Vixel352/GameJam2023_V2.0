@@ -749,8 +749,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00048828, y: -2.067}
-  m_SizeDelta: {x: 1920, y: 1075.7}
+  m_AnchoredPosition: {x: -262.652, y: -2.067}
+  m_SizeDelta: {x: 1394.696, y: 1075.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1856073660
 MonoBehaviour:
@@ -772,10 +772,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Chaarcter Art..............Ethan Hernandez\nUI Art...............................................Lesly
-    Rodriguez\nProgramming.........................Preslee Harper\n                                                                         
-    Jamya Mosely\nWriting...........................................Preslee Harper\n                                                                         
-    Jamya Mosely\nAudio....................................\n\nJett Guadarrama\n"
+  m_text: 'Ethan Hernandez
+
+
+    Lesly Rodriguez
+
+
+    Preslee Harper
+
+
+    Jamya
+    Mosely
+
+
+    Jett Guadarrama
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0b11f47e032f6a24ba6d1962ba310b4d, type: 2}
   m_sharedMaterial: {fileID: -271557733605048057, guid: 0b11f47e032f6a24ba6d1962ba310b4d, type: 2}
@@ -802,14 +814,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0

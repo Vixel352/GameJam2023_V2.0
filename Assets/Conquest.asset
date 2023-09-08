@@ -16,11 +16,14 @@ MonoBehaviour:
   - guid: a30224a9-779b-4295-8874-c06eabf85803
     targetGuid: e4e6f511-771b-4a8e-a87a-9e708ba4e0d4
     portId: 0
+  - guid: e4e6f511-771b-4a8e-a87a-9e708ba4e0d4
+    targetGuid: 690e1207-98c3-45b7-a779-d1352b1b99bb
+    portId: 1
   nodes:
   - guid: a30224a9-779b-4295-8874-c06eabf85803
     characterSpr: {fileID: 21300000, guid: ff8d5b9a493a04c4aaa703af784ef9fa, type: 3}
     characterName: Draconias
-    dialogueText: 
+    dialogueText: Test Tes
     backgroundSpr: {fileID: 21300000, guid: 80455deb5fcaea34dafa5228b35777bf, type: 3}
     startNode: 1
     endNode: 0
@@ -35,10 +38,28 @@ MonoBehaviour:
       height: 306.00003
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
+  - guid: 690e1207-98c3-45b7-a779-d1352b1b99bb
+    characterSpr: {fileID: 21300000, guid: 4ddcda79e39fd9444ad48a34f5c5f996, type: 3}
+    characterName: guy
+    dialogueText: beeee
+    backgroundSpr: {fileID: 21300000, guid: 00fcad32f02d5b14889fcf8d2a44cb08, type: 3}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1298.4
+      y: 252.8
+      width: 500.40002
+      height: 306
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
   - guid: e4e6f511-771b-4a8e-a87a-9e708ba4e0d4
     characterSpr: {fileID: 21300000, guid: b25b73eb95d127746b10f69479885f20, type: 3}
     characterName: Goblin Pawn
-    dialogueText: 
+    dialogueText: 1 2 3
     backgroundSpr: {fileID: 21300000, guid: 80455deb5fcaea34dafa5228b35777bf, type: 3}
     startNode: 0
     endNode: 0

@@ -13,7 +13,7 @@ public class StartGameButton : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("MainGame");
+        SceneManager.LoadScene("PlayScene1");
     }
 
     public void CreditsMenu()
@@ -25,4 +25,21 @@ public class StartGameButton : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu2");
     }
+
+    public void Beastman()
+    { 
+        SceneManager.LoadScene("Beastman");
+    }
+
+    public void Queen()
+    {
+        SceneManager.LoadScene("Queen");
+    }
+
+    public void Hero()
+    {
+        SceneManager.LoadScene("Hero");
+    }
+
+
 }        
